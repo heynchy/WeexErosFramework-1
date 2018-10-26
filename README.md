@@ -1,5 +1,6 @@
 # WeexErosFramework-Custom
-eros android framework. 鉴于原项目并未生成对应的依赖，导包很困难；并且对应的weexErosFramework已更新，为了方便引用，故提供其依赖：
+    eros android framework.
+    鉴于原项目并未生成对应的依赖，导包很困难；并且对应的weexErosFramework已更新，为了方便引用，故提供其依赖：
 
 ```
 dependencies {

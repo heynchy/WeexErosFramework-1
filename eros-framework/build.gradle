@@ -57,7 +57,9 @@ dependencies {
     compile ('com.github.niorgai:StatusBarCompat:2.1.4', {
         exclude group: 'com.android.support'
     })
-    compile project(':nexus')
+    compile 'com.github.bmfe:eros-nexus:1.1.0'
+//    compile project(':nexus')
+
 
 
 //    debugImplementation "com.squareup.leakcanary:leakcanary-android:1.5.4"
